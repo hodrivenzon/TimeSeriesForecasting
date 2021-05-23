@@ -5,11 +5,11 @@ I'm using LSTM model for forecasting future prices for Microsoft Stock and Tesla
 
 Exploring the length of the Time Series with LSTM model
 
-# Long Time Series
+#Long Time Series
 
 ![image](https://user-images.githubusercontent.com/57043410/119264980-c879c980-bbed-11eb-84a5-4795fc2847fe.png)
 
-# Short Time Series
+#Short Time Series
 
 ![image](https://user-images.githubusercontent.com/57043410/119264955-b8fa8080-bbed-11eb-932b-8ff2632af2fd.png)
 
