@@ -30,7 +30,8 @@ if __name__ == '__main__':
 
     # basic_lstm(tsla_h)
     # simpleLSTM().basicLSTM(tsla_h)
-    simpleLSTM().statefulLSTM(tsla_h)
+    simpleLSTM().LSTM_CNN(tsla_h)
+    # simpleLSTM().statefulLSTM(tsla_h)
 
 
     # plot_param(msft_h)
